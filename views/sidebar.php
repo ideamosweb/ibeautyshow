@@ -1,0 +1,1 @@
+ <?php $this->page_section('ad_slider') ?>
